@@ -38,11 +38,11 @@ Please check the [issues list](https://github.com/lpatmo/cb-links/issues). All t
 
 
 ##Collaborators:
-[@lpatmo](http://github.com/lpatmo) - created the first draft of this README and deployed the repo to links.codebuddies.org
-[@colbycheeze](http://github.com/colbycheeze)
-[@nanenj](http://github.com/nanenj)
-[@anbuselvan](http://github.com/anbuselvan)
-[@anonRegions](http://github.com/anonRegions)
+- [@lpatmo](http://github.com/lpatmo) - created the first draft of this README and deployed the repo to links.codebuddies.org
+- [@colbycheeze](http://github.com/colbycheeze)
+- [@nanenj](http://github.com/nanenj)
+- [@anbuselvan](http://github.com/anbuselvan)
+- [@anonRegions](http://github.com/anonRegions)
 
 
 ##Top Sharers:
