@@ -1,3 +1,16 @@
 <template name="hello">
-  <h2 class="custom-hero-banner">Hello {{name}}!</h2>
+  <h2 class="custom-hero-banner">Hello {{nameOfUser}}!</h2>
+
+
+  <ul>
+  {{#each categoriesArray}}
+            <li>
+              <a href="{{categoryLink}}" class="post-category">
+                {{name}}
+              </a>
+            </li>
+   {{/each}}
+   </ul>
+
+
 </template>

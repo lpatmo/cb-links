@@ -3,3 +3,4 @@ Telescope.modules.add("hero", {
   template: 'hello',
   order: 1
 });
+
