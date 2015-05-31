@@ -1,3 +1,12 @@
-ul.categories li {
+ul.categories { 
+	margin-bottom: 10px;
+	li {
 	display: inline;
+	}
+}
+.centered { 
+	margin: 0 auto;
+}
+.align-center {
+	text-align: center;
 }

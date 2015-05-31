@@ -1,4 +1,9 @@
 Meteor.startup(function () {
+
+	getCategoryUrl = function(slug){
+	 return Telescope.utils.getSiteUrl()+'category/'+slug;
+	};
+	
 	Template.hello.helpers({
 	  nameOfUser: function () {
 	    if (Meteor.user()) {

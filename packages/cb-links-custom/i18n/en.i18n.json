@@ -18,7 +18,7 @@
   "users": "Users",
   "settings": "Settings",
   "admin": "Admin",
-  "post": "Post",
+  "post": "Share a Link",
   "toolbox": "Toolbox",
   "sign_up_sign_in": "Register/Sign In",
   "my_account": "My Account",
@@ -209,7 +209,7 @@
   "new_password": "New Password",
   "email_notifications": "Email Notifications",
   "new_users" : "New users",
-  "new_posts": "New Posts",
+  "new_posts": "New Links",
   "comments_on_my_posts": "Recommendations on my posts",
   "replies_to_my_comments": "Replies to my recommendations",
   "forgot_password": "Forgot password?",
@@ -298,8 +298,8 @@
   "name": "Name:",
   "github": "GitHub",
   "site": "Site",
-  "upvoted_posts": "Upvoted Posts",
-  "downvoted_posts": "Downvoted Posts",
+  "upvoted_posts": "Upvoted Links",
+  "downvoted_posts": "Downvoted Links",
   "mark_as_read": "Mark as read",
 
   //Common
