@@ -1,7 +1,7 @@
 Package.describe({
-  summary: 'Custom Theme for CB-Links',
+  summary: 'Telescope custom package – use as template for your own packages',
   version: '0.1.0',
-  name: 'cb-links'
+  name: 'cb-links-custom'
 });
 
 Package.onUse(function (api) {
