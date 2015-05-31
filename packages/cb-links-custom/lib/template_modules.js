@@ -4,3 +4,7 @@ Telescope.modules.add("hero", {
   order: 1
 });
 
+Telescope.modules.add("primaryNav", {
+  template: "about_link",
+  order: 100
+});
