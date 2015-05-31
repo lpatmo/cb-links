@@ -3,7 +3,7 @@ https://github.com/lpatmo/cb-links
 Background: [CodeBuddies.org](http://codebuddies.org) is a community of independent code learners who share knowledge on Slack and schedule “silent” or “non-silent” Google Hangouts to co-work on personal projects, pair program, or help each other master tutorials. Sharing knowledge is fun and helps us master new material faster. The project is free and open-sourced on Github.
 
 ##What is this project?
-[http://links.codebuddies.org](http://links.codebuddies.org) is an archive of resources. The project is separate from the [hangouts platform](http://hangouts.codebuddies.org).
+[http://links.codebuddies.org](http://links.codebuddies.org) is an archive of resources. The project is separate from the [hangouts platform](http://hangouts.codebuddies.org) and is free and open-sourced as well.
 
 In its simplest form, the platform lets people submit links to resources, and add recommendations to the submitted links. 
 
@@ -18,7 +18,7 @@ The project is open-sourced and anyone can submit a link or be added and recogni
 4. Sometimes a specific chapter of an online book is hard to get through; people who’ve read that chapter can now leave a flag about it.
 5. The ability to mark links as completed or "started" lets people track their progress and build up their own personal curriculum.
 
-##I want to help with one of the features of this open-sourced resource recommendation project. How do I become a collaborator?
+##I want to help with the codebase. How do I become a collaborator and get push access?
 1. Join the #links-project Slack channel at http://codebuddiesmeet.slack.com, say hello, and watch out for occasional collaborative coding session hangouts. If you’re not a member of the CodeBuddies Slack community, check out http://codebuddiesmeet.herokuapp.com for an invite.
 2. Go to https://github.com/lpatmo/cb-links and git clone the repo.
 3. Ask to be invited as a collaborator to the repo by leaving your github username in the Slack channel.
@@ -38,11 +38,12 @@ Please check the [issues list](https://github.com/lpatmo/cb-links/issues). All t
 
 
 ##Collaborators:
-- [@lpatmo](http://github.com/lpatmo) - created the first draft of this README and deployed the repo to links.codebuddies.org
+- [@lpatmo](http://github.com/lpatmo)
 - [@colbycheeze](http://github.com/colbycheeze)
 - [@nanenj](http://github.com/nanenj)
 - [@anbuselvan](http://github.com/anbuselvan)
 - [@anonRegions](http://github.com/anonRegions)
+- Join us in the #links-project Slack channel and add your name here!
 
 
 ##Top Sharers:
