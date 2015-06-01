@@ -48,6 +48,8 @@ Please check the [issues list](https://github.com/lpatmo/cb-links/issues). All t
 - [@nanenj](http://github.com/nanenj)
 - [@anbuselvan](http://github.com/anbuselvan)
 - [@anonRegions](http://github.com/anonRegions)
+- [@wuworkshop](http://github.com/wuworkshop)
+- [@Xerasset](http://github.com/Xerasset)
 - Join us in the #links-project Slack channel and add your name here!
 
 
