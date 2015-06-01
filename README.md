@@ -21,13 +21,18 @@ The project is open-sourced and anyone can submit a link or be added and recogni
 ##I want to help with the codebase. How do I become a collaborator and get push access?
 1. Join the #links-project Slack channel at http://codebuddiesmeet.slack.com, say hello, and watch out for occasional collaborative coding session hangouts. If you’re not a member of the CodeBuddies Slack community, check out http://codebuddiesmeet.herokuapp.com for an invite.
 2. Go to https://github.com/lpatmo/cb-links and git clone the repo.
-3. Ask to be invited as a collaborator to the repo by leaving your github username in the Slack channel.
-4. Create a new branch inside the repo and include your username and the feature you’re working on in the branch name.
-5. Once the commits in your branch are integrated to the master branch, you can add your name as a collaborator to the README.md.
+3. Make sure you have meteor installed. For meteor installation instructions, check out [http://telescope.readme.io/v0.20/docs/installing-telescope](http://telescope.readme.io/v0.20/docs/installing-telescope). 
+4. `cd` into `cb-links` and run `meteor` to start up the app in your localhost. 
+5. Once you have the app running, register a new user. The first user you register will be a default `admin` user.
+6. Until we create a fixtures file so that default categories get created automatically, you’ll need to create some new categories yourself in your local instance by clicking on your username and going to `settings` and `categories` on the left-hand side. A categories cloud should show up in the `hero` area when you create the new categories.
+7. In order to get push access to the repo, ask to be invited as a collaborator to the repo by saying hello and leaving your github username in the Slack channel.
+8. Take a look at the issues in [https://github.com/lpatmo/cb-links/issues](https://github.com/lpatmo/cb-links/issues) and leave a comment if you plan to work on it. If you have a question and would like a immediate response, ask in the Slack channel.
 
-IMPORTANT: Refer to [http://telescope.readme.io/v0.20/docs/overview](http://telescope.readme.io/v0.20/docs/overview) for documentation about how to edit the `cb-links` package.
+####IMPORTANT: Refer to [http://telescope.readme.io/v0.20/docs/overview](http://telescope.readme.io/v0.20/docs/overview) for documentation about how to edit the `cb-links` package.
 
 The only folder that you should touch when you git clone this repo is `cb-links`. The other core files inside `packages` will get overwritten every time we `git pull upstream` from Telescope master.
+
+
 
 
 ##I want to support this project, but I don’t want to work on the codebase. How else can I help? 
