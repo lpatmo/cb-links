@@ -50,6 +50,7 @@ Please check the [issues list](https://github.com/lpatmo/cb-links/issues). All t
 - [@anonRegions](http://github.com/anonRegions)
 - [@wuworkshop](http://github.com/wuworkshop)
 - [@Xerasset](http://github.com/Xerasset)
+- [@Wilcott321](http://github.com/Wilcott321)
 - Join us in the #links-project Slack channel and add your name here!
 
 
